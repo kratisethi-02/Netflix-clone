@@ -1,0 +1,36 @@
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 80%; */
+    margin: auto;
+
+}
+ul{
+    list-style: none;
+
+}
+
+.content{
+    font-weight: 300;
+    padding: 20px;
+}
+li{
+    padding: 7px;
+}
+
+a{
+    font-weight: 400;
+    color: rgb(107, 105, 105);
+    font-size: 13px;
+    padding: 10px;
+    
+}
+
+p{
+    color: rgb(107, 105, 105);
+    border: 1px solid rgb(107, 105, 105);
+    padding: 10px;
+    text-align: center;
+    
+}
